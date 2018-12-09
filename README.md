@@ -10,4 +10,4 @@
 
 ## 3.X.509证书的读取与解释
 
-博客：[X.509]()
+博客：[X.509](https://blog.csdn.net/dickdick111/article/details/84931413)
