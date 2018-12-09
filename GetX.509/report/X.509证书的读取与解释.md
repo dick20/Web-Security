@@ -79,19 +79,19 @@ Certificate
 
 **step1：点击网站的地址左边的感叹号，找到证书的入口。**
 
-![2](C:\Users\asus\Desktop\2.png)
+![2](https://github.com/dick20/Web-Security/blob/master/GetX.509/report/image/2.png)
 
 
 
 **step2：点击证书后，找到详细信息，找到复制到文件入口**
 
-![3](C:\Users\asus\Desktop\3.png)
+![3](https://github.com/dick20/Web-Security/blob/master/GetX.509/report/image/3.png)
 
 
 
 **step3：选择格式，点击下一步，然后选择路径即可**
 
-![4](C:\Users\asus\Desktop\4.png)
+![4](https://github.com/dick20/Web-Security/blob/master/GetX.509/report/image/4.png)
 
 
 
@@ -158,7 +158,7 @@ Certificate
 
 X.509证书的一些关键内容输出如下：
 
-![1](C:\Users\asus\Desktop\1.png)
+![1](https://github.com/dick20/Web-Security/blob/master/GetX.509/report/image/1.png)
 
 该证书的版本号为3，序列号如图所示
 
@@ -185,4 +185,4 @@ X.509证书的一些关键内容输出如下：
 
 **X.509证书的全部内容也可以进行输出**：
 
-![5](C:\Users\asus\Desktop\5.png)
+![5](https://github.com/dick20/Web-Security/blob/master/GetX.509/report/image/5.png)
