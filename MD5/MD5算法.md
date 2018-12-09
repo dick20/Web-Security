@@ -15,7 +15,7 @@
 
 **MD5的基本流程图如下**
 
-![1](C:\Users\asus\Desktop\1.png)
+![1](https://github.com/dick20/Web-Security/blob/master/MD5/image/1.png)
 
 ## 二. 总体结构
 
@@ -272,7 +272,7 @@ F, G, H, I都是轮函数，根据MD5算法提供的函数表来进行构造。�
 
 以下是一次迭代运算的示意图：
 
-![2](C:\Users\asus\Desktop\2.png)
+![2](https://github.com/dick20/Web-Security/blob/master/MD5/image/2.png)
 
 ```c++
 unsigned int my_md5::shift_left(unsigned int num, int pos){
@@ -476,7 +476,7 @@ int main()
 
 
 
-![3](C:\Users\asus\Desktop\3.png)
+![3](https://github.com/dick20/Web-Security/blob/master/MD5/image/3.png)
 
 
 
@@ -490,7 +490,7 @@ int main()
 
 **解密结果一致**
 
-![4](C:\Users\asus\Desktop\4.png)
+![4](https://github.com/dick20/Web-Security/blob/master/MD5/image/4.png)
 
 
 
@@ -504,7 +504,7 @@ int main()
 
 **解密结果一致**
 
-![5](C:\Users\asus\Desktop\5.png)
+![5](https://github.com/dick20/Web-Security/blob/master/MD5/image/5.png)
 
 
 
